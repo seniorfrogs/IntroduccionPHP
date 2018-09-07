@@ -1,5 +1,4 @@
 <?php
-#Que ladren los perros
 
 #Condiciones
 $a=10;
